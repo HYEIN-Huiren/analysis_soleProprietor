@@ -39,3 +39,4 @@ git 생성
 - 범위는 벗어나지만 기업 정보 수집 api주소 추가
 > 금융 경제 공부 따로 할 필요 있음
 > 뭘 봐야 할까요...?
+- 대분류 추가 (업종코드 - 표준산업분류 연계 https://www.nts.go.kr/comm/nttFileDownload.do?fileKey=dc054e55089b8d6d8679797c686aff63)
